@@ -1,0 +1,20 @@
+[
+    {
+        "ticket_id": "T101",
+        "title": "Server Issue",
+        "description": "Server is down after payment failed.",
+        "status": "Closed",
+        "priority": "Urgent",
+        "created_by": "Aman",
+        "assigned_to": "Rahul"
+    },
+    {
+        "ticket_id": "T102",
+        "title": "Login Error",
+        "description": "Unable to login into the application.",
+        "status": "Open",
+        "priority": "High",
+        "created_by": "Riya",
+        "assigned_to": "Priya"
+    }
+]
